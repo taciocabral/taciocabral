@@ -1,16 +1,21 @@
-### Hi there 👋
+# Tácio Cabral
 
-<!--
-**taciocabral/taciocabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho experiência em desenvolvimento utilizando Python e outras
+tecnologias para sistemas de pagamentos online, integrações com adquirentes e
+gateways de pagamento, APIs de plataformas de marketing e publicidade digital (Google
+Ads e Adsense, Facebook Ads, Hotmart e Monetizze) e outras APIs. Tenho muita vontade e disposição em aprender tecnologias e conceitos novos buscando sempre ### # gerar valor para o produto/projeto.
 
-Here are some ideas to get you started:
+:rocket: Estou trabalhando na **Plusdin** 
+<br /> :blue_heart: &nbsp; Buscando colaborar com projetos Front-end usando React e React Native e projetos Back-end usando Python.
+<br /> :blush: &nbsp; Minha stack: ReactJS, React Native, Python e AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br /> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-TacioCabral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/taciocabral)](https://linkedin.com/in/taciocabral) | [![Yahoo Badge](http://img.shields.io/badge/-T%C3%A1cioCabral-blueviolet?style=flat-square&logo=mail&logoColor=white&link=mailto:tacio_cabral@yahoo.com.br)](mailto:tacio_cabral@yahoo.com.br)
+
+
+
+### Contatos
+Email: tacio_cabral@yahoo.com.br
+LinkedIn: 
+Blog: itsametacio.com
+
+### 
